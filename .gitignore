@@ -1,0 +1,12 @@
+# Ignore all .log files
+*.log
+
+# Ignore all .json files
+*.json
+
+# Ignore all .pt files
+*.pt
+
+# Ignore all .dat files
+*.dat
+
